@@ -1,6 +1,6 @@
 ### about me:
 
-i'm 20 years old and i enjoy programming, learning new things, video games, music, and building things.
+i'm 21 years old and i enjoy programming, learning new things, video games, music, and building things.
 
 <!--
 **green-new/green-new** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
